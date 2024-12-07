@@ -22,3 +22,4 @@ Access the Eureka dashboard at http://localhost:8761 to monitor registered servi
 Future Use Cases
 This repository is designed to be generic and reusable for any microservice-based project. Simply include it as a dependency and configure new microservices to register with it.
 
+
